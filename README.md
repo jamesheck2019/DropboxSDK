@@ -1,2 +1,98 @@
 # DropboxSDK
 Dropbox SDK for .NET
+<ul>
+	<li>.NET 4.5.2</li>
+	<li>One dependency library [Newtonsoft.Json]</li>
+</ul>
+Functions list:
+<ul>
+	<li>GetToken</li>
+	<li>GetTokenFromCode</li>
+</ul>
+<ul>
+	<li>CopyAndRenameFile</li>
+	<li>CopyFile</li>
+	<li>CopyMultipleFiles</li>
+	<li>CopyMultipleFilesStatus</li>
+	<li>DeleteFile</li>
+	<li>DeleteMultipleFilesStatus</li>
+	<li>DownloadFile</li>
+	<li>DownloadFileAsStream</li>
+	<li>FileMetadata</li>
+	<li>FileThumbnail</li>
+	<li>MoveAndRenameFile</li>
+	<li>MoveFile</li>
+	<li>MoveMultipleFiles</li>
+	<li>MoveMultipleFilesStatus</li>
+	<li>MultipleFilesThumbnail</li>
+	<li>RenameFile</li>
+	<li>TrashFile</li>
+	<li>TrashMultipleFiles</li>
+	<li>UploadLocalFile</li>
+	<li>UploadRemoteFile</li>
+	<li>UploadRemoteFileStatus</li>
+</ul>
+<ul>
+	<li>CopyAndRenameFolder</li>
+	<li>CopyFolder</li>
+	<li>CopyMultipleFolders</li>
+	<li>CopyMultipleFoldersStatus</li>
+	<li>CreateMultipleNewFolders</li>
+	<li>CreateNewFolder</li>
+	<li>DeleteFolder</li>
+	<li>DeleteMultipleFoldersStatus</li>
+	<li>DownloadFolderAsZip</li>
+	<li>FolderMetadata</li>
+	<li>MoveAndRenameFolder</li>
+	<li>MoveFolder</li>
+	<li>MoveMultipleFolders</li>
+	<li>MoveMultipleFoldersStatus</li>
+	<li>RenameFolder</li>
+	<li>TrashFolder</li>
+	<li>TrashMultipleFolders</li>
+</ul>
+<ul>
+	<li>RevokeToken</li>
+	<li>ContactsDelete</li>
+	<li>ContactsBatchDelete</li>
+	<li>SpaceUsage</li>
+</ul>
+<ul>
+	<li>Function ListAllFiles</li>
+	<li>LatestUploadedOrModifiedInFolder</li>
+	<li>ListFolder</li>
+	<li>ListFolderContinue</li>
+	<li>ListRootFolders</li>
+</ul>
+<ul>
+	<li>DownloadFileFromPFolder</li>
+	<li>DownloadPFile</li>
+	<li>ExplorerPFolder</li>
+	<li>ListAllPublicLinks_Continue</li>
+	<li>ListAllPublicLinksOfFolder</li>
+	<li>ListAllPublicLinksOfUser</li>
+	<li>PFileMetadata</li>
+	<li>PFolderMetadata</li>
+	<li>PublicFile</li>
+	<li>PublicFileFolder</li>
+	<li>PublicFolder</li>
+	<li>TemporaryFileLink</li>
+	<li>UnPublicFileFolder</li>
+</ul>
+<ul>
+	<li>AcceptFolderShareRequest</li>
+	<li>End Interface</li>
+	<li>ListAllSharesFoldersOfUser</li>
+	<li>ListAllSharesFoldersOfUser_Continue</li>
+	<li>ListFilesShareRequestsReceived</li>
+	<li>ListFilesShareRequestsReceived_Continue</li>
+	<li>MultipleSharedFilesMetadata</li>
+	<li>RemoveMemberUserFromSharedFile</li>
+	<li>RemoveMemberUserFromSharedFolder</li>
+	<li>SharedFileMetadata</li>
+	<li>SharedFolderMetadata</li>
+	<li>ShareFile</li>
+	<li>ShareFolder</li>
+	<li>UnShareFile</li>
+	<li>UnshareFolder</li>
+</ul>
